@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="farhan-lab_A:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/farhan_lab_A_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="farhan-lab_A/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="farhan-lab_A" />
+          <element id="library" level="project" name="farhan-lab_A" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.40-bin" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
